@@ -1,22 +1,18 @@
 :root {
+    /* Fonts */
+    --sz-font-family: 'Open Sans', sans-serif;
+
+    /* Heights */
+    --sz-nav-height: 56px;
+
+    /* Widths */
+    --sz-nav-width: 320px;
+
     /* Colours */
-    --nav-bg: #142B3F;
-}
+    --sz-nav-color: rgba(38, 50, 75, 1);
+    --sz-nav-white-70: #DADADA;
+    --sz-nav-white-90: rgba(255, 255, 255, 0.9);
+    --sz-nav-white: #FFFFFF;
+    --sz-nav-help-color: hsla(0, 0%, 100%, .6);
 
-/* Buttons */
-.c011 i {
-    color: #46A5A5;
-}
-
-.c016 {
-    color: #46A5A5;
-}
-
-.c015 {
-    background: #46A5A5;
-    color: #142B3F;
-}
-
-.c0136 {
-    color: #142B3F;
 }
