@@ -1,0 +1,22 @@
+:root {
+    /* Colours */
+    --nav-bg: #142B3F;
+}
+
+/* Buttons */
+.c011 i {
+    color: #46A5A5;
+}
+
+.c016 {
+    color: #46A5A5;
+}
+
+.c015 {
+    background: #46A5A5;
+    color: #142B3F;
+}
+
+.c0136 {
+    color: #142B3F;
+}
